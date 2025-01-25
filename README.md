@@ -1,3 +1,6 @@
+## kiểm tra trạng thái Redis trên Ubuntu 
+redis-cli ping
+
 ## Chạy Redis trên Ubuntu thông qua Snap Package Manager
 1) sudo snap services (xem cái nào đang chạy hay dừng)
 2) sudo snap start redis (chạy redis)
