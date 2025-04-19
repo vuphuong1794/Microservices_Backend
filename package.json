@@ -19,5 +19,9 @@
     "mongoose": "^8.9.1",
     "nodemon": "^3.1.9",
     "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^9.0.2"
   }
 }
